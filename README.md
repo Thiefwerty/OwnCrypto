@@ -58,7 +58,7 @@ Returns a response containing data about the index of the block that accepted th
 
 Called via /mine_block GET request
 
-Performs work on mining a new block on the request тщву
+Performs work on mining a new block on the request node
 
 Returns a response containing data about new block
 
