@@ -5,7 +5,7 @@ This project provides an opportunity to create your own cryptocurrency based on 
 
 ## Start
 
-You need to create files for each node on your network based on the Crypto.py file by changing in the app.run () method, replacing the values of the port parameter with unique values for each node, as shown in the example.
+You need to create files for each node on your network based on the Crypto.py file by changing in the app.run () method, replacing the values of the port parameter with unique values for each node, as shown in the example
 
 ```
 app.run(host = '0.0.0.0', port = 5000)
