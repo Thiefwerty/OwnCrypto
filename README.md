@@ -25,8 +25,8 @@ Accepts the addresses of all nodes exclude the request node in json format:
 ```
 {
 	"nodes":["http://127.0.0.1:5001",
-			 "http://127.0.0.1:5002",
-			 "http://127.0.0.1:5003"]
+		 "http://127.0.0.1:5002",
+		 "http://127.0.0.1:5003"]
 }
 ```
 Returns a response containing the data of the connected nodes and the HTTP code
